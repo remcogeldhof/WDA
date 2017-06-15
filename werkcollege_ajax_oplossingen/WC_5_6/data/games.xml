@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+	<game>
+		<name>Roborally</name>
+		<min>2</min>
+		<max>8</max>
+		<description>Program your robot and unleash them in a factory. Destroy your opponents in a total destruction rally.</description>
+		<img src="images/roborally.png"/>
+	</game>
+	<game>
+		<name>Settlers of Catan</name>
+		<min>3</min>
+		<max>6</max>
+		<description>Expand your empire across the island of Catan.</description>
+		<img src="images/catan.png"/>
+	</game>
+	<game>
+		<name>Risk</name>
+		<min>2</min>
+		<max>6</max>
+		<description>Battle with your opponents for world domination.</description>
+		<img src="images/risk.png"/>
+	</game>
+</games>

@@ -1,0 +1,25 @@
+{
+  "games": [
+    {
+      "name": "Roborally",
+      "min": "2",
+      "max": "8",
+      "description": "Program your robot and unleash them in a factory. Destroy your opponents in a total destruction rally.",
+      "img": "images/roborally.png"
+    },
+    {
+      "name": "Settlers of Catan",
+      "min": "3",
+      "max": "6",
+      "description": "Expand your empire across the island of Catan.",
+      "img": "images/catan.png"
+    },
+    {
+      "name": "Risk",
+      "min": "2",
+      "max": "6",
+      "description": "Battle with your opponents for world domination.",
+      "img": "images/risk.png"
+    }
+  ]
+}
