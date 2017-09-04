@@ -1,0 +1,19 @@
+#hover-content{
+display: none;
+}
+
+#parent:hover #hover-content{
+display:block;
+
+}
+
+#italic{
+    font-style: italic;
+}
+.demo-1 {
+    color:pink;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
